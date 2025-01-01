@@ -9,7 +9,7 @@
   "dependencies": {
     "@repo/env": "workspace:*",
     "@liveblocks/client": "^2.14.0",
-    "@liveblocks/node": "^2.14.0",
+    "@liveblocks/node": "^2.15.1",
     "@liveblocks/react": "^2.14.0",
     "react": "^19.0.0",
     "server-only": "^0.0.1"
